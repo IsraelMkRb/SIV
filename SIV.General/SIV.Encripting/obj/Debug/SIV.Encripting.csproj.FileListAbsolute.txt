@@ -1,0 +1,6 @@
+D:\Repositorio\SIV\SIV.General\SIV.Encripting\bin\Debug\SIV.Encripting.dll
+D:\Repositorio\SIV\SIV.General\SIV.Encripting\bin\Debug\SIV.Encripting.pdb
+D:\Repositorio\SIV\SIV.General\SIV.Encripting\obj\Debug\SIV.Encripting.csproj.AssemblyReference.cache
+D:\Repositorio\SIV\SIV.General\SIV.Encripting\obj\Debug\SIV.Encripting.csproj.CoreCompileInputs.cache
+D:\Repositorio\SIV\SIV.General\SIV.Encripting\obj\Debug\SIV.Encripting.dll
+D:\Repositorio\SIV\SIV.General\SIV.Encripting\obj\Debug\SIV.Encripting.pdb

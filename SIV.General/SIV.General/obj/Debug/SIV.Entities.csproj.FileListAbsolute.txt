@@ -1,0 +1,6 @@
+D:\Repositorio\SIV\SIV.General\SIV.General\bin\Debug\SIV.General.dll
+D:\Repositorio\SIV\SIV.General\SIV.General\bin\Debug\SIV.General.pdb
+D:\Repositorio\SIV\SIV.General\SIV.General\obj\Debug\SIV.Entities.csproj.AssemblyReference.cache
+D:\Repositorio\SIV\SIV.General\SIV.General\obj\Debug\SIV.Entities.csproj.CoreCompileInputs.cache
+D:\Repositorio\SIV\SIV.General\SIV.General\obj\Debug\SIV.General.dll
+D:\Repositorio\SIV\SIV.General\SIV.General\obj\Debug\SIV.General.pdb

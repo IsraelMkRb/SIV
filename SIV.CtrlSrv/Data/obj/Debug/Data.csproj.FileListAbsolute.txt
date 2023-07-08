@@ -1,0 +1,7 @@
+D:\Repositorio\SIV\SIV.CtrlSrv\Data\bin\Debug\Data.dll
+D:\Repositorio\SIV\SIV.CtrlSrv\Data\bin\Debug\Data.pdb
+D:\Repositorio\SIV\SIV.CtrlSrv\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+D:\Repositorio\SIV\SIV.CtrlSrv\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Repositorio\SIV\SIV.CtrlSrv\Data\obj\Debug\Data.dll
+D:\Repositorio\SIV\SIV.CtrlSrv\Data\obj\Debug\Data.pdb
+D:\Repositorio\SIV\SIV.CtrlSrv\Data\bin\Debug\Data.dll.config

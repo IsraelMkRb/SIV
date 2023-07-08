@@ -1,0 +1,2 @@
+D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\obj\Debug\CtrlServices.csproj.AssemblyReference.cache
+D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\obj\Debug\CtrlServices.csproj.CoreCompileInputs.cache
