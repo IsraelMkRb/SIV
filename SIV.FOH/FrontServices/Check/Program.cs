@@ -18,7 +18,18 @@ namespace SIV
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Views.LoginView());
+            Entities.Context Context = CreateContext();
+            Application.Run(Context.LoginView);
+        }
+
+        static Entities.Context CreateContext()
+        {
+            var context = new Entities.Context();
+            context.LoginView = new Views.LoginView(context);
+            context.CheckView = new Views.CheckServices(context);
+            context.Paymentsview = new Views.PaymentsView(context);
+            
+            return context;
         }
     }
 }

@@ -9,17 +9,24 @@ namespace CtrlServices
 {
     class Logs
     {
-        private static readonly string Path = $"TMP\\CSR{DateTime.Now:ddMMyyyy}.log";
+        private static readonly string _Path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory,"TMP");
+        private static readonly string LogFile = $"\\CSR{DateTime.Now:ddMMyyyy}.log";
         public static void Write(string EventLog)
         {
             try
             {
-                if (!File.Exists(path: Path)) { DirectoryInfo dr= Directory.CreateDirectory("TMP");  }
+                if (!Directory.Exists(path: _Path)) Directory.CreateDirectory(_Path);
+                File.AppendAllText(_Path + LogFile, $"[{DateTime.Now:dd-MM-yyyyy hh-mm-ss}] Info: {EventLog} \n");
+            }
+            catch (Exception) { throw; }
+        }
 
-                using (StreamWriter streamWriter = new StreamWriter(path: Path))
-                {
-                    streamWriter.WriteLine($"[{DateTime.Now:dd-MM-yyyyy hh-mm-ss}] info: {EventLog}");
-                }
+        public static void Write(Exception Ex)
+        {
+            try
+            {
+                if (!Directory.Exists(path: _Path)) Directory.CreateDirectory(_Path);
+                File.AppendAllText(_Path + LogFile, $"[{DateTime.Now:dd-MM-yyyyy hh-mm-ss}] Error: {Ex.Message}  origen: {Ex.StackTrace} \n");
             }
             catch (Exception) { throw; }
         }

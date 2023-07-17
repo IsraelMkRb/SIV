@@ -14,6 +14,7 @@ namespace SIV.Entities
         public string User { get; set; }
         public string Password { get; set; }
         public byte[] FingerTemplate { get; set; }
+        public int TerminalLogged { get; set; }
     }
 
     public class Users : List<Employee> { }

@@ -1,0 +1,439 @@
+[16-07-02023 11-25-00] Error: Puerto ocupado por otra aplicación. Favor de revisar.  origen:    en CtrlServices.CtrlSrv.OnStart(String[] args) en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 29 
+[16-07-02023 11-25-18] Error: Puerto ocupado por otra aplicación. Favor de revisar.  origen:    en CtrlServices.CtrlSrv.OnStart(String[] args) en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 29 
+[16-07-02023 11-32-24] Info: Escuchando en el puerto: 58887 
+[16-07-02023 11-32-55] Info: Cliente conectado: 127.0.0.1:59148 
+[16-07-02023 11-32-56] Info: Escuchando en el puerto: 58887 
+[16-07-02023 11-32-56] Info: Cliente conectado: 127.0.0.1:59149 
+[16-07-02023 11-32-56] Info: Escuchando en el puerto: 58887 
+[16-07-02023 11-33-09] Info: Cliente conectado: 127.0.0.1:59155 
+[16-07-02023 11-33-09] Info: Escuchando en el puerto: 58887 
+[16-07-02023 11-33-16] Info: Cliente conectado: 127.0.0.1:59157 
+[16-07-02023 11-33-16] Info: Escuchando en el puerto: 58887 
+[16-07-02023 11-33-16] Info: Cliente conectado: 127.0.0.1:59158 
+[16-07-02023 11-33-16] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-39-31] Info: Cliente conectado: 127.0.0.1:52096 
+[16-07-02023 08-39-31] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-39-32] Info: Cliente conectado: 127.0.0.1:52097 
+[16-07-02023 08-39-32] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-40-05] Info: Cliente conectado: 127.0.0.1:52105 
+[16-07-02023 08-40-05] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-40-05] Info: Cliente conectado: 127.0.0.1:52106 
+[16-07-02023 08-40-05] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-41-26] Info: Cliente conectado: 127.0.0.1:52126 
+[16-07-02023 08-41-26] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-41-26] Info: Cliente conectado: 127.0.0.1:52127 
+[16-07-02023 08-41-26] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-41-39] Info: Cliente conectado: 127.0.0.1:52131 
+[16-07-02023 08-41-39] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-41-40] Info: Cliente conectado: 127.0.0.1:52132 
+[16-07-02023 08-41-40] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-43-15] Info: Cliente conectado: 127.0.0.1:52159 
+[16-07-02023 08-43-15] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-43-21] Info: Cliente conectado: 127.0.0.1:52161 
+[16-07-02023 08-43-21] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-43-21] Info: Cliente conectado: 127.0.0.1:52162 
+[16-07-02023 08-43-21] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-43-54] Info: Cliente conectado: 127.0.0.1:52179 
+[16-07-02023 08-43-54] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-43-56] Info: Cliente conectado: 127.0.0.1:52181 
+[16-07-02023 08-43-56] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-44-33] Info: Cliente conectado: 127.0.0.1:52192 
+[16-07-02023 08-44-33] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-44-35] Info: Cliente conectado: 127.0.0.1:52193 
+[16-07-02023 08-44-35] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-44-37] Info: Cliente conectado: 127.0.0.1:52195 
+[16-07-02023 08-44-37] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-44-39] Info: Cliente conectado: 127.0.0.1:52196 
+[16-07-02023 08-44-39] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-44-39] Info: Cliente conectado: 127.0.0.1:52197 
+[16-07-02023 08-44-39] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-44-54] Info: Cliente conectado: 127.0.0.1:52204 
+[16-07-02023 08-44-54] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-44-54] Info: Cliente conectado: 127.0.0.1:52205 
+[16-07-02023 08-44-54] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-46-00] Info: Cliente conectado: 127.0.0.1:52221 
+[16-07-02023 08-46-01] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-46-01] Info: Cliente conectado: 127.0.0.1:52222 
+[16-07-02023 08-46-01] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-47-15] Info: Cliente conectado: 127.0.0.1:52249 
+[16-07-02023 08-47-15] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-47-15] Info: Cliente conectado: 127.0.0.1:52250 
+[16-07-02023 08-47-15] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-48-12] Info: Cliente conectado: 127.0.0.1:52266 
+[16-07-02023 08-48-12] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-48-12] Info: Cliente conectado: 127.0.0.1:52267 
+[16-07-02023 08-48-12] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-48-43] Info: Cliente conectado: 127.0.0.1:52276 
+[16-07-02023 08-48-43] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-48-43] Info: Cliente conectado: 127.0.0.1:52277 
+[16-07-02023 08-48-43] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-49-27] Info: Cliente conectado: 127.0.0.1:52289 
+[16-07-02023 08-49-27] Info: Escuchando en el puerto: 58887 
+[16-07-02023 08-49-27] Info: Cliente conectado: 127.0.0.1:52290 
+[16-07-02023 08-49-27] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-20-48] Info: Cliente conectado: 127.0.0.1:52781 
+[16-07-02023 09-20-49] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-20-49] Info: Cliente conectado: 127.0.0.1:52782 
+[16-07-02023 09-20-49] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-21-39] Info: Cliente conectado: 127.0.0.1:52795 
+[16-07-02023 09-21-40] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-21-40] Info: Cliente conectado: 127.0.0.1:52796 
+[16-07-02023 09-21-40] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-22-56] Info: Cliente conectado: 127.0.0.1:52828 
+[16-07-02023 09-22-56] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-22-56] Info: Cliente conectado: 127.0.0.1:52829 
+[16-07-02023 09-22-56] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-23-22] Info: Cliente conectado: 127.0.0.1:52837 
+[16-07-02023 09-23-22] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-23-22] Info: Cliente conectado: 127.0.0.1:52838 
+[16-07-02023 09-23-22] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-24-05] Info: Cliente conectado: 127.0.0.1:52852 
+[16-07-02023 09-24-05] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-24-05] Info: Cliente conectado: 127.0.0.1:52853 
+[16-07-02023 09-24-05] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-24-37] Info: Cliente conectado: 127.0.0.1:52861 
+[16-07-02023 09-24-37] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-24-37] Info: Cliente conectado: 127.0.0.1:52862 
+[16-07-02023 09-24-37] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-25-10] Info: Cliente conectado: 127.0.0.1:52871 
+[16-07-02023 09-25-11] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-25-11] Info: Cliente conectado: 127.0.0.1:52872 
+[16-07-02023 09-25-11] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-25-42] Info: Cliente conectado: 127.0.0.1:52884 
+[16-07-02023 09-25-42] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-25-42] Info: Cliente conectado: 127.0.0.1:52885 
+[16-07-02023 09-25-42] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-25-55] Info: Cliente conectado: 127.0.0.1:52889 
+[16-07-02023 09-25-55] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-25-55] Info: Cliente conectado: 127.0.0.1:52890 
+[16-07-02023 09-25-55] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-26-33] Info: Cliente conectado: 127.0.0.1:52898 
+[16-07-02023 09-26-34] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-26-34] Info: Cliente conectado: 127.0.0.1:52899 
+[16-07-02023 09-26-34] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-27-17] Info: Cliente conectado: 127.0.0.1:52909 
+[16-07-02023 09-27-17] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-27-17] Info: Cliente conectado: 127.0.0.1:52911 
+[16-07-02023 09-27-17] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-28-56] Info: Cliente conectado: 127.0.0.1:52938 
+[16-07-02023 09-28-56] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-28-56] Info: Cliente conectado: 127.0.0.1:52939 
+[16-07-02023 09-28-56] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-57-54] Info: Cliente conectado: 127.0.0.1:53425 
+[16-07-02023 09-57-54] Info: Escuchando en el puerto: 58887 
+[16-07-02023 09-57-54] Info: Cliente conectado: 127.0.0.1:53426 
+[16-07-02023 09-57-54] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-00-26] Info: Cliente conectado: 127.0.0.1:53475 
+[16-07-02023 10-00-26] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-00-26] Info: Cliente conectado: 127.0.0.1:53476 
+[16-07-02023 10-00-26] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-01-38] Info: Cliente conectado: 127.0.0.1:53493 
+[16-07-02023 10-01-38] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-01-38] Info: Cliente conectado: 127.0.0.1:53494 
+[16-07-02023 10-01-38] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-03-27] Info: Cliente conectado: 127.0.0.1:53519 
+[16-07-02023 10-03-27] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-03-27] Info: Cliente conectado: 127.0.0.1:53520 
+[16-07-02023 10-03-27] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-05-55] Info: Cliente conectado: 127.0.0.1:53555 
+[16-07-02023 10-05-56] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-05-56] Info: Cliente conectado: 127.0.0.1:53556 
+[16-07-02023 10-05-56] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-06-17] Info: Cliente conectado: 127.0.0.1:53562 
+[16-07-02023 10-06-17] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-06-17] Info: Cliente conectado: 127.0.0.1:53563 
+[16-07-02023 10-06-17] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-06-36] Info: Cliente conectado: 127.0.0.1:53575 
+[16-07-02023 10-06-37] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-06-37] Info: Cliente conectado: 127.0.0.1:53576 
+[16-07-02023 10-06-37] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-06-53] Info: Cliente conectado: 127.0.0.1:53583 
+[16-07-02023 10-06-53] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-06-53] Info: Cliente conectado: 127.0.0.1:53584 
+[16-07-02023 10-06-53] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-07-01] Info: Cliente conectado: 127.0.0.1:53587 
+[16-07-02023 10-07-01] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-07-03] Info: Cliente conectado: 127.0.0.1:53588 
+[16-07-02023 10-07-03] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-07-03] Info: Cliente conectado: 127.0.0.1:53589 
+[16-07-02023 10-07-03] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-07-51] Info: Cliente conectado: 127.0.0.1:53609 
+[16-07-02023 10-07-51] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-07-51] Info: Cliente conectado: 127.0.0.1:53610 
+[16-07-02023 10-07-51] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-07-56] Info: Cliente conectado: 127.0.0.1:53612 
+[16-07-02023 10-07-56] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-07-58] Info: Cliente conectado: 127.0.0.1:53614 
+[16-07-02023 10-07-58] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-07-58] Info: Cliente conectado: 127.0.0.1:53615 
+[16-07-02023 10-07-58] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-16-39] Info: Cliente conectado: 127.0.0.1:53764 
+[16-07-02023 10-16-40] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-16-41] Info: Cliente conectado: 127.0.0.1:53765 
+[16-07-02023 10-16-41] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-16-41] Info: Cliente conectado: 127.0.0.1:53766 
+[16-07-02023 10-16-41] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-17-11] Info: Cliente conectado: 127.0.0.1:53773 
+[16-07-02023 10-17-11] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-17-11] Info: Cliente conectado: 127.0.0.1:53774 
+[16-07-02023 10-17-11] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-18-22] Info: Cliente conectado: 127.0.0.1:53793 
+[16-07-02023 10-18-22] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-18-22] Info: Cliente conectado: 127.0.0.1:53794 
+[16-07-02023 10-18-22] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-20-03] Info: Cliente conectado: 127.0.0.1:53845 
+[16-07-02023 10-20-03] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-20-03] Info: Cliente conectado: 127.0.0.1:53846 
+[16-07-02023 10-20-03] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-20-35] Info: Cliente conectado: 127.0.0.1:53858 
+[16-07-02023 10-20-35] Info: Escuchando en el puerto: 58887 
+[16-07-02023 10-20-35] Info: Cliente conectado: 127.0.0.1:53859 
+[16-07-02023 10-20-35] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-02-10] Info: Cliente conectado: 127.0.0.1:57714 
+[17-07-02023 12-02-10] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-02-10] Info: Cliente conectado: 127.0.0.1:57716 
+[17-07-02023 12-02-10] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-02-36] Info: Cliente conectado: 127.0.0.1:57723 
+[17-07-02023 12-02-36] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-02-36] Info: Cliente conectado: 127.0.0.1:57724 
+[17-07-02023 12-02-36] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-02-41] Info: Cliente conectado: 127.0.0.1:57725 
+[17-07-02023 12-02-41] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-02-41] Info: Cliente conectado: 127.0.0.1:57726 
+[17-07-02023 12-02-41] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-04-40] Info: Cliente conectado: 127.0.0.1:57761 
+[17-07-02023 12-04-40] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-04-40] Info: Cliente conectado: 127.0.0.1:57762 
+[17-07-02023 12-04-40] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-04-47] Info: Cliente conectado: 127.0.0.1:57764 
+[17-07-02023 12-04-47] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-04-47] Info: Cliente conectado: 127.0.0.1:57765 
+[17-07-02023 12-04-47] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-04-52] Info: Cliente conectado: 127.0.0.1:57767 
+[17-07-02023 12-04-52] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-04-52] Info: Cliente conectado: 127.0.0.1:57768 
+[17-07-02023 12-04-52] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-05-05] Info: Cliente conectado: 127.0.0.1:57771 
+[17-07-02023 12-05-05] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-05-06] Info: Cliente conectado: 127.0.0.1:57773 
+[17-07-02023 12-05-06] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-05-06] Info: Cliente conectado: 127.0.0.1:57774 
+[17-07-02023 12-05-06] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-05-12] Info: Cliente conectado: 127.0.0.1:57777 
+[17-07-02023 12-05-12] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-05-12] Info: Cliente conectado: 127.0.0.1:57778 
+[17-07-02023 12-05-12] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-05-32] Info: Cliente conectado: 127.0.0.1:57783 
+[17-07-02023 12-05-33] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-05-33] Info: Cliente conectado: 127.0.0.1:57784 
+[17-07-02023 12-05-33] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-05-38] Info: Cliente conectado: 127.0.0.1:57786 
+[17-07-02023 12-05-38] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-05-38] Info: Cliente conectado: 127.0.0.1:57787 
+[17-07-02023 12-05-38] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-07-39] Info: Cliente conectado: 127.0.0.1:57817 
+[17-07-02023 12-07-39] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-07-39] Info: Cliente conectado: 127.0.0.1:57818 
+[17-07-02023 12-07-39] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-07-46] Info: Cliente conectado: 127.0.0.1:57822 
+[17-07-02023 12-07-46] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-07-46] Info: Cliente conectado: 127.0.0.1:57823 
+[17-07-02023 12-07-46] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-07-49] Info: Cliente conectado: 127.0.0.1:57824 
+[17-07-02023 12-07-49] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-07-49] Info: Cliente conectado: 127.0.0.1:57825 
+[17-07-02023 12-07-49] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-08-17] Info: Cliente conectado: 127.0.0.1:57839 
+[17-07-02023 12-08-17] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-08-17] Info: Cliente conectado: 127.0.0.1:57840 
+[17-07-02023 12-08-17] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-09-24] Info: Cliente conectado: 127.0.0.1:57864 
+[17-07-02023 12-09-24] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-09-24] Info: Cliente conectado: 127.0.0.1:57865 
+[17-07-02023 12-09-24] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-10-31] Info: Cliente conectado: 127.0.0.1:57889 
+[17-07-02023 12-10-31] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-10-31] Info: Cliente conectado: 127.0.0.1:57890 
+[17-07-02023 12-10-31] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-10-36] Info: Cliente conectado: 127.0.0.1:57892 
+[17-07-02023 12-10-36] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-10-36] Info: Cliente conectado: 127.0.0.1:57893 
+[17-07-02023 12-10-36] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-12-33] Info: Cliente conectado: 127.0.0.1:57939 
+[17-07-02023 12-12-34] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-12-34] Info: Cliente conectado: 127.0.0.1:57940 
+[17-07-02023 12-12-34] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-12-43] Info: Cliente conectado: 127.0.0.1:57943 
+[17-07-02023 12-12-43] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-12-43] Info: Cliente conectado: 127.0.0.1:57944 
+[17-07-02023 12-12-43] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-15-34] Info: Cliente conectado: 127.0.0.1:57985 
+[17-07-02023 12-15-34] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-15-34] Info: Cliente conectado: 127.0.0.1:57987 
+[17-07-02023 12-15-34] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-15-42] Info: Cliente conectado: 127.0.0.1:57990 
+[17-07-02023 12-15-42] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-15-42] Info: Cliente conectado: 127.0.0.1:57991 
+[17-07-02023 12-15-42] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-18-40] Info: Cliente conectado: 127.0.0.1:58053 
+[17-07-02023 12-18-40] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-18-40] Info: Cliente conectado: 127.0.0.1:58054 
+[17-07-02023 12-18-40] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-19-42] Info: Cliente conectado: 127.0.0.1:58069 
+[17-07-02023 12-19-42] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-19-42] Info: Cliente conectado: 127.0.0.1:58070 
+[17-07-02023 12-19-42] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-20-09] Info: Cliente conectado: 127.0.0.1:58076 
+[17-07-02023 12-20-09] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-20-09] Info: Cliente conectado: 127.0.0.1:58077 
+[17-07-02023 12-20-09] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-21-09] Info: Cliente conectado: 127.0.0.1:58100 
+[17-07-02023 12-21-10] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-21-10] Info: Cliente conectado: 127.0.0.1:58101 
+[17-07-02023 12-21-10] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-21-49] Info: Cliente conectado: 127.0.0.1:58109 
+[17-07-02023 12-21-49] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-21-49] Info: Cliente conectado: 127.0.0.1:58110 
+[17-07-02023 12-21-49] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-23-31] Info: Cliente conectado: 127.0.0.1:58143 
+[17-07-02023 12-23-31] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-23-31] Info: Cliente conectado: 127.0.0.1:58144 
+[17-07-02023 12-23-31] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-26-09] Info: Cliente conectado: 127.0.0.1:58184 
+[17-07-02023 12-26-09] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-26-09] Info: Cliente conectado: 127.0.0.1:58185 
+[17-07-02023 12-26-09] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-37-28] Info: Cliente conectado: 127.0.0.1:58418 
+[17-07-02023 12-37-28] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-37-29] Info: Cliente conectado: 127.0.0.1:58420 
+[17-07-02023 12-37-29] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-39-22] Info: Cliente conectado: 127.0.0.1:58452 
+[17-07-02023 12-39-22] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-39-22] Info: Cliente conectado: 127.0.0.1:58453 
+[17-07-02023 12-39-22] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-39-27] Info: Cliente conectado: 127.0.0.1:58455 
+[17-07-02023 12-39-27] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-39-27] Info: Cliente conectado: 127.0.0.1:58456 
+[17-07-02023 12-39-27] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-39-44] Info: Cliente conectado: 127.0.0.1:58461 
+[17-07-02023 12-39-44] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-39-44] Info: Cliente conectado: 127.0.0.1:58462 
+[17-07-02023 12-39-44] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-42-54] Info: Cliente conectado: 127.0.0.1:58520 
+[17-07-02023 12-42-54] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-42-54] Info: Cliente conectado: 127.0.0.1:58521 
+[17-07-02023 12-42-54] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-43-02] Info: Cliente conectado: 127.0.0.1:58523 
+[17-07-02023 12-43-02] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-43-02] Info: Cliente conectado: 127.0.0.1:58524 
+[17-07-02023 12-43-02] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-43-04] Info: Cliente conectado: 127.0.0.1:58526 
+[17-07-02023 12-43-04] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-43-04] Info: Cliente conectado: 127.0.0.1:58527 
+[17-07-02023 12-43-04] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-50-28] Info: Cliente conectado: 127.0.0.1:58686 
+[17-07-02023 12-50-28] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-50-28] Info: Cliente conectado: 127.0.0.1:58687 
+[17-07-02023 12-50-28] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-50-48] Info: Cliente conectado: 127.0.0.1:58692 
+[17-07-02023 12-50-48] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-50-48] Info: Cliente conectado: 127.0.0.1:58693 
+[17-07-02023 12-50-48] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-51-00] Info: Cliente conectado: 127.0.0.1:58696 
+[17-07-02023 12-51-00] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-51-00] Info: Cliente conectado: 127.0.0.1:58697 
+[17-07-02023 12-51-00] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-51-10] Info: Cliente conectado: 127.0.0.1:58701 
+[17-07-02023 12-51-10] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-51-16] Info: Cliente conectado: 127.0.0.1:58704 
+[17-07-02023 12-51-16] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-51-16] Info: Cliente conectado: 127.0.0.1:58705 
+[17-07-02023 12-51-16] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-51-41] Info: Cliente conectado: 127.0.0.1:58713 
+[17-07-02023 12-51-41] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-51-41] Info: Cliente conectado: 127.0.0.1:58714 
+[17-07-02023 12-51-41] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-55-35] Info: Cliente conectado: 127.0.0.1:58786 
+[17-07-02023 12-55-36] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-55-36] Info: Cliente conectado: 127.0.0.1:58787 
+[17-07-02023 12-55-36] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-55-48] Info: Cliente conectado: 127.0.0.1:58790 
+[17-07-02023 12-55-48] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-55-54] Info: Cliente conectado: 127.0.0.1:58793 
+[17-07-02023 12-55-54] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-55-54] Info: Cliente conectado: 127.0.0.1:58794 
+[17-07-02023 12-55-54] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-56-09] Info: Cliente conectado: 127.0.0.1:58799 
+[17-07-02023 12-56-09] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-56-09] Info: Cliente conectado: 127.0.0.1:58801 
+[17-07-02023 12-56-09] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-56-12] Info: Cliente conectado: 127.0.0.1:58803 
+[17-07-02023 12-56-12] Info: Escuchando en el puerto: 58887 
+[17-07-02023 12-56-12] Info: Cliente conectado: 127.0.0.1:58804 
+[17-07-02023 12-56-12] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-02-33] Info: Cliente conectado: 127.0.0.1:58920 
+[17-07-02023 01-02-33] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-02-33] Info: Cliente conectado: 127.0.0.1:58922 
+[17-07-02023 01-02-33] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-06-48] Info: Cliente conectado: 127.0.0.1:58996 
+[17-07-02023 01-06-48] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-06-48] Info: Cliente conectado: 127.0.0.1:58997 
+[17-07-02023 01-06-48] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-14-43] Info: Cliente conectado: 127.0.0.1:59150 
+[17-07-02023 01-14-43] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-14-43] Info: Cliente conectado: 127.0.0.1:59151 
+[17-07-02023 01-14-43] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-16-01] Info: Cliente conectado: 127.0.0.1:59173 
+[17-07-02023 01-16-01] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-16-01] Info: Cliente conectado: 127.0.0.1:59174 
+[17-07-02023 01-16-01] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-16-09] Info: Cliente conectado: 127.0.0.1:59176 
+[17-07-02023 01-16-09] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-17-27] Info: Cliente conectado: 127.0.0.1:59194 
+[17-07-02023 01-17-28] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-17-28] Info: Cliente conectado: 127.0.0.1:59196 
+[17-07-02023 01-17-28] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-18-32] Info: Cliente conectado: 127.0.0.1:59218 
+[17-07-02023 01-18-32] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-18-32] Info: Cliente conectado: 127.0.0.1:59219 
+[17-07-02023 01-18-32] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-21-56] Info: Cliente conectado: 127.0.0.1:59278 
+[17-07-02023 01-21-56] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-21-56] Info: Cliente conectado: 127.0.0.1:59279 
+[17-07-02023 01-21-56] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-23-56] Info: Cliente conectado: 127.0.0.1:59308 
+[17-07-02023 01-23-56] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-23-56] Info: Cliente conectado: 127.0.0.1:59309 
+[17-07-02023 01-23-56] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-24-26] Info: Cliente conectado: 127.0.0.1:59315 
+[17-07-02023 01-24-26] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-24-26] Info: Cliente conectado: 127.0.0.1:59316 
+[17-07-02023 01-24-26] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-25-41] Info: Cliente conectado: 127.0.0.1:59337 
+[17-07-02023 01-25-41] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-25-41] Info: Cliente conectado: 127.0.0.1:59338 
+[17-07-02023 01-25-41] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-25-46] Info: Cliente conectado: 127.0.0.1:59340 
+[17-07-02023 01-25-46] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-25-46] Info: Cliente conectado: 127.0.0.1:59341 
+[17-07-02023 01-25-46] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-43-13] Info: Cliente conectado: 127.0.0.1:59874 
+[17-07-02023 01-43-13] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-43-13] Info: Cliente conectado: 127.0.0.1:59875 
+[17-07-02023 01-43-13] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-43-36] Info: Cliente conectado: 127.0.0.1:59882 
+[17-07-02023 01-43-36] Info: Escuchando en el puerto: 58887 
+[17-07-02023 01-43-36] Info: Cliente conectado: 127.0.0.1:59883 
+[17-07-02023 01-43-36] Info: Escuchando en el puerto: 58887 
+[17-07-02023 03-01-30] Info: Cliente conectado: 127.0.0.1:61297 
+[17-07-02023 03-01-30] Info: Escuchando en el puerto: 58887 
+[17-07-02023 03-01-30] Info: Cliente conectado: 127.0.0.1:61298 
+[17-07-02023 03-01-30] Info: Escuchando en el puerto: 58887 
+[17-07-02023 03-01-39] Info: Cliente conectado: 127.0.0.1:61301 
+[17-07-02023 03-01-39] Info: Escuchando en el puerto: 58887 
+[17-07-02023 03-01-39] Info: Cliente conectado: 127.0.0.1:61302 
+[17-07-02023 03-01-39] Info: Escuchando en el puerto: 58887 
+[17-07-02023 05-30-31] Info: Cliente conectado: 127.0.0.1:64196 
+[17-07-02023 05-30-32] Info: Escuchando en el puerto: 58887 
+[17-07-02023 05-30-32] Info: Cliente conectado: 127.0.0.1:64197 
+[17-07-02023 05-30-32] Info: Escuchando en el puerto: 58887 

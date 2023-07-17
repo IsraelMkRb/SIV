@@ -25,7 +25,7 @@ namespace CtrlServices.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("10002")]
+        [global::System.Configuration.DefaultSettingValueAttribute("58887")]
         public int Port {
             get {
                 return ((int)(this["Port"]));

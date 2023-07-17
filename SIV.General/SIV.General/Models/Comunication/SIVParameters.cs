@@ -9,6 +9,7 @@ namespace SIV.Entities
     public class SIVParameters
     {
         public Employee EmployeeParameters { get; set; }
+        public int TerminalSource { get; set; }
 
     }
 }

@@ -9,8 +9,8 @@ namespace Data
 
     public static class Connection
     {
-        private static string connectionString;
-
+        private static string connectionString = Properties.Settings.Default.DataSource;
+      
         public static bool ContainsColumn(IDataReader reader, string columnName)
         {
             for (int i = 0; i < reader.FieldCount; i++)
@@ -20,14 +20,14 @@ namespace Data
 
             return false;
         }
-        public static IDataParameter CreateParameter(string ParameterName, object Value)
+        public static IDbDataParameter CreateParameter(string ParameterName, object Value)
         {
             IDataParameter parameter = CreateConnection().CreateCommand().CreateParameter();
 
             parameter.ParameterName = ParameterName;
             parameter.Value = Value;
 
-            return parameter;
+            return (IDbDataParameter)parameter;
         }
 
         public static void SetConnectionString(string connectionStringName)

@@ -1,0 +1,266 @@
+[08-07-02023 06-57-50] Error: Puerto ocupado por otra aplicación. Favor de revisar.
+[08-07-02023 06-57-55] Error: Puerto ocupado por otra aplicación. Favor de revisar.
+[08-07-02023 07-01-29] Error: Puerto ocupado por otra aplicación. Favor de revisar.
+[08-07-02023 07-04-19] info: Escuchando en el puerto: 58887
+[08-07-02023 07-10-37] info: Cliente conectado: 127.0.0.1:62231
+[08-07-02023 07-14-45] info: Escuchando en el puerto: 58887
+[08-07-02023 07-15-09] info: Cliente conectado: 127.0.0.1:62297
+[08-07-02023 07-17-09] info: Escuchando en el puerto: 58887
+[08-07-02023 07-17-28] info: Cliente conectado: 127.0.0.1:62328
+[08-07-02023 07-17-28] Error: Referencia a objeto no establecida como instancia de un objeto.
+[08-07-02023 07-19-03] info: Escuchando en el puerto: 58887
+[08-07-02023 07-19-11] info: Cliente conectado: 127.0.0.1:62350
+[08-07-02023 07-19-11] Error: Referencia a objeto no establecida como instancia de un objeto.
+[08-07-02023 07-26-25] info: Escuchando en el puerto: 58887
+[08-07-02023 07-26-36] info: Cliente conectado: 127.0.0.1:62466
+[08-07-02023 07-26-36] Error: Referencia a objeto no establecida como instancia de un objeto.
+[08-07-02023 07-28-48] Info: Escuchando en el puerto: 58887 
+[08-07-02023 07-29-04] Info: Cliente conectado: 127.0.0.1:62504 
+[08-07-02023 07-29-04] Error: Referencia a objeto no establecida como instancia de un objeto.  origen: CtrlServices 
+[08-07-02023 07-29-50] Info: Escuchando en el puerto: 58887 
+[08-07-02023 07-29-54] Info: Cliente conectado: 127.0.0.1:62515 
+[08-07-02023 07-29-54] Error: Referencia a objeto no establecida como instancia de un objeto.  origen:    en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 98 
+[08-07-02023 07-30-45] Info: Escuchando en el puerto: 58887 
+[08-07-02023 07-30-48] Info: Cliente conectado: 127.0.0.1:62531 
+[08-07-02023 07-30-48] Error: Referencia a objeto no establecida como instancia de un objeto.  origen:    en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 98 
+[08-07-02023 07-32-16] Info: Escuchando en el puerto: 58887 
+[08-07-02023 07-32-19] Info: Cliente conectado: 127.0.0.1:62556 
+[08-07-02023 07-32-19] Error: La peticion de la terminal tiene un formato incorrecta  origen:    en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 97 
+[08-07-02023 07-33-13] Info: Escuchando en el puerto: 58887 
+[08-07-02023 07-33-15] Info: Cliente conectado: 127.0.0.1:62569 
+[08-07-02023 07-33-15] Info:  
+[08-07-02023 07-33-15] Error: La peticion de la terminal tiene un formato incorrecta  origen:    en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 97 
+[08-07-02023 07-36-14] Info: Escuchando en el puerto: 58887 
+[08-07-02023 07-36-19] Info: Cliente conectado: 127.0.0.1:62608 
+[08-07-02023 07-36-19] Error: La cadena de conexión no ha sido configurada.  origen:    en Data.Connection.CreateConnection() en D:\Repositorio\SIV\SIV.CtrlSrv\Data\Connections.cs:línea 73
+   en Data.Connection.CreateParameter(String ParameterName, Object Value) en D:\Repositorio\SIV\SIV.CtrlSrv\Data\Connections.cs:línea 25
+   en CtrlServices.EmployeesMethods.Login_FromTerminal(SIVParameters parameters) en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\MethodsDictionary.cs:línea 75
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 104 
+[08-07-02023 07-38-33] Info: Escuchando en el puerto: 58887 
+[08-07-02023 07-38-35] Info: Cliente conectado: 127.0.0.1:62677 
+[08-07-02023 07-38-35] Error: La cadena de conexión no ha sido configurada.  origen:    en Data.Connection.CreateConnection() en D:\Repositorio\SIV\SIV.CtrlSrv\Data\Connections.cs:línea 73
+   en Data.Connection.CreateParameter(String ParameterName, Object Value) en D:\Repositorio\SIV\SIV.CtrlSrv\Data\Connections.cs:línea 25
+   en CtrlServices.EmployeesMethods.Login_FromTerminal(SIVParameters parameters) en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\MethodsDictionary.cs:línea 75
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 104 
+[08-07-02023 07-41-58] Info: Escuchando en el puerto: 58887 
+[08-07-02023 07-42-01] Info: Cliente conectado: 127.0.0.1:62728 
+[08-07-02023 07-42-01] Error: La cadena de conexión no ha sido configurada.  origen:    en Data.Connection.CreateConnection() en D:\Repositorio\SIV\SIV.CtrlSrv\Data\Connections.cs:línea 73
+   en Data.Connection.CreateParameter(String ParameterName, Object Value) en D:\Repositorio\SIV\SIV.CtrlSrv\Data\Connections.cs:línea 25
+   en CtrlServices.EmployeesMethods.Login_FromTerminal(SIVParameters parameters) en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\MethodsDictionary.cs:línea 75
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 104 
+[08-07-02023 07-43-57] Info: Escuchando en el puerto: 58887 
+[08-07-02023 07-44-00] Info: Cliente conectado: 127.0.0.1:62757 
+[08-07-02023 07-44-00] Error: La cadena de conexión no ha sido configurada.  origen:    en Data.Connection.CreateConnection() en D:\Repositorio\SIV\SIV.CtrlSrv\Data\Connections.cs:línea 73
+   en Data.Connection.CreateParameter(String ParameterName, Object Value) en D:\Repositorio\SIV\SIV.CtrlSrv\Data\Connections.cs:línea 25
+   en CtrlServices.EmployeesMethods.Login_FromTerminal(SIVParameters parameters) en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\MethodsDictionary.cs:línea 75
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 104 
+[08-07-02023 07-44-20] Info: Escuchando en el puerto: 58887 
+[08-07-02023 07-44-23] Info: Cliente conectado: 127.0.0.1:62762 
+[08-07-02023 07-44-24] Error: No se puede convertir un objeto de tipo 'System.Data.IDataParameter[]' al tipo 'System.Data.IDbDataParameter[]'.  origen:    en CtrlServices.EmployeesMethods.Login_FromTerminal(SIVParameters parameters) en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\MethodsDictionary.cs:línea 75
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 101 
+[08-07-02023 07-47-52] Info: Escuchando en el puerto: 58887 
+[08-07-02023 07-47-55] Info: Cliente conectado: 127.0.0.1:62817 
+[08-07-02023 07-48-05] Error: Cannot open database "SIVDATA" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.  origen:    en System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en Data.Connection.ExecuteReader(String query, CommandType commandType, IDbDataParameter[] parameters) en D:\Repositorio\SIV\SIV.CtrlSrv\Data\Connections.cs:línea 65
+   en CtrlServices.EmployeesMethods.Login_FromTerminal(SIVParameters parameters) en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\MethodsDictionary.cs:línea 75
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 101 
+[08-07-02023 07-52-30] Info: Escuchando en el puerto: 58887 
+[08-07-02023 07-52-32] Info: Cliente conectado: 127.0.0.1:62880 
+[08-07-02023 07-52-32] Error: Login failed for user 'sa'.  origen:    en System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en Data.Connection.ExecuteReader(String query, CommandType commandType, IDbDataParameter[] parameters) en D:\Repositorio\SIV\SIV.CtrlSrv\Data\Connections.cs:línea 65
+   en CtrlServices.EmployeesMethods.Login_FromTerminal(SIVParameters parameters) en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\MethodsDictionary.cs:línea 75
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 101 
+[08-07-02023 07-59-13] Info: Escuchando en el puerto: 58887 
+[08-07-02023 07-59-23] Info: Cliente conectado: 127.0.0.1:63013 
+[08-07-02023 07-59-23] Error: Invalid object name 'general.vw_employee'.  origen:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   en System.Data.SqlClient.SqlDataReader.get_MetaData()
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   en System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   en Data.Connection.ExecuteReader(String query, CommandType commandType, IDbDataParameter[] parameters) en D:\Repositorio\SIV\SIV.CtrlSrv\Data\Connections.cs:línea 67
+   en CtrlServices.EmployeesMethods.Login_FromTerminal(SIVParameters parameters) en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\MethodsDictionary.cs:línea 75
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 101 
+[08-07-02023 08-00-50] Info: Escuchando en el puerto: 58887 
+[08-07-02023 08-01-03] Info: Cliente conectado: 127.0.0.1:63040 
+[08-07-02023 08-01-03] Error: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendto  origen:    en System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 117 
+[08-07-02023 09-35-38] Info: Escuchando en el puerto: 58887 
+[08-07-02023 09-35-41] Info: Cliente conectado: 127.0.0.1:64546 
+[08-07-02023 09-35-41] Error: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendto  origen:    en System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 117 
+[08-07-02023 09-36-56] Info: Escuchando en el puerto: 58887 
+[08-07-02023 09-37-02] Info: Cliente conectado: 127.0.0.1:64569 
+[08-07-02023 09-37-02] Error: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendto  origen:    en System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 117 
+[08-07-02023 09-37-15] Info: Escuchando en el puerto: 58887 
+[08-07-02023 09-37-20] Info: Cliente conectado: 127.0.0.1:64575 
+[08-07-02023 09-37-20] Error: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendto  origen:    en System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 117 
+[08-07-02023 09-37-30] Info: Escuchando en el puerto: 58887 
+[08-07-02023 09-37-33] Info: Cliente conectado: 127.0.0.1:64579 
+[08-07-02023 09-37-33] Error: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendto  origen:    en System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 117 
+[08-07-02023 09-38-42] Info: Escuchando en el puerto: 58887 
+[08-07-02023 09-38-45] Info: Cliente conectado: 127.0.0.1:64605 
+[08-07-02023 09-38-45] Error: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendto  origen:    en System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 117 
+[08-07-02023 09-39-15] Info: Escuchando en el puerto: 58887 
+[08-07-02023 09-39-21] Info: Cliente conectado: 127.0.0.1:64613 
+[08-07-02023 09-39-22] Error: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendto  origen:    en System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 117 
+[08-07-02023 09-41-42] Info: Escuchando en el puerto: 58887 
+[08-07-02023 09-41-48] Info: Cliente conectado: 127.0.0.1:64645 
+[08-07-02023 09-41-48] Error: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendto  origen:    en System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 117 
+[08-07-02023 09-42-12] Info: Escuchando en el puerto: 58887 
+[08-07-02023 09-42-15] Info: Cliente conectado: 127.0.0.1:64654 
+[08-07-02023 09-42-15] Error: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendto  origen:    en System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 117 
+[08-07-02023 09-44-37] Info: Escuchando en el puerto: 58887 
+[08-07-02023 09-44-40] Info: Cliente conectado: 127.0.0.1:64704 
+[08-07-02023 09-44-40] Error: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendto  origen:    en System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 117 
+[08-07-02023 09-44-50] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-00-12] Info: Cliente conectado: 127.0.0.1:64928 
+[08-07-02023 10-00-13] Error: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendto  origen:    en System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 117 
+[08-07-02023 10-03-22] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-03-26] Info: Cliente conectado: 127.0.0.1:64988 
+[08-07-02023 10-03-26] Error: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendto  origen:    en System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 117 
+[08-07-02023 10-03-35] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-03-38] Info: Cliente conectado: 127.0.0.1:64994 
+[08-07-02023 10-03-38] Error: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendto  origen:    en System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 117 
+[08-07-02023 10-03-54] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-03-59] Info: Cliente conectado: 127.0.0.1:65005 
+[08-07-02023 10-03-59] Error: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendto  origen:    en System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 117 
+[08-07-02023 10-04-31] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-04-33] Info: Cliente conectado: 127.0.0.1:65019 
+[08-07-02023 10-04-34] Error: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendto  origen:    en System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 117 
+[08-07-02023 10-06-12] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-06-15] Info: Cliente conectado: 127.0.0.1:65048 
+[08-07-02023 10-06-15] Error: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendto  origen:    en System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 117 
+[08-07-02023 10-09-52] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-09-56] Info: Cliente conectado: 127.0.0.1:65112 
+[08-07-02023 10-09-56] Error: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendto  origen:    en System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 117 
+[08-07-02023 10-10-29] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-10-34] Info: Cliente conectado: 127.0.0.1:65129 
+[08-07-02023 10-10-34] Error: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendto  origen:    en System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 117 
+[08-07-02023 10-11-24] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-12-10] Info: Cliente conectado: 127.0.0.1:65161 
+[08-07-02023 10-12-10] Error: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendto  origen:    en System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 117 
+[08-07-02023 10-13-36] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-14-07] Info: Cliente conectado: 127.0.0.1:65188 
+[08-07-02023 10-14-07] Error: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendto  origen:    en System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 117 
+[08-07-02023 10-14-54] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-16-27] Error: Puerto ocupado por otra aplicación. Favor de revisar.  origen:    en CtrlServices.CtrlSrv.OnStart(String[] args) en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 29 
+[08-07-02023 10-16-34] Info: Cliente conectado: 127.0.0.1:65224 
+[08-07-02023 10-16-34] Error: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendto  origen:    en System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 117 
+[08-07-02023 10-16-39] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-19-14] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-19-36] Info: Cliente conectado: 127.0.0.1:65265 
+[08-07-02023 10-19-36] Error: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendto  origen:    en System.Net.Sockets.Socket.Shutdown(SocketShutdown how)
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 117 
+[08-07-02023 10-19-57] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-23-03] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-23-22] Info: Cliente conectado: 127.0.0.1:65328 
+[08-07-02023 10-23-22] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-23-22] Error: No se puede obtener acceso al objeto desechado.
+Nombre del objeto: 'System.Net.Sockets.Socket'.  origen:    en System.Net.Sockets.Socket.Accept()
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 84 
+[08-07-02023 10-24-27] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-24-42] Info: Cliente conectado: 127.0.0.1:65353 
+[08-07-02023 10-24-42] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-24-42] Error: No se puede obtener acceso al objeto desechado.
+Nombre del objeto: 'System.Net.Sockets.Socket'.  origen:    en System.Net.Sockets.Socket.Accept()
+   en CtrlServices.CtrlSrv.Loop() en D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\CtrlSrv.cs:línea 84 
+[08-07-02023 10-25-28] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-25-30] Info: Cliente conectado: 127.0.0.1:65364 
+[08-07-02023 10-25-31] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-25-55] Info: Cliente conectado: 127.0.0.1:65370 
+[08-07-02023 10-25-55] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-26-00] Info: Cliente conectado: 127.0.0.1:65372 
+[08-07-02023 10-26-00] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-27-36] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-28-08] Info: Cliente conectado: 127.0.0.1:65401 
+[08-07-02023 10-28-08] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-28-08] Info: Cliente conectado: 127.0.0.1:65402 
+[08-07-02023 10-28-08] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-29-14] Info: Cliente conectado: 127.0.0.1:65424 
+[08-07-02023 10-29-14] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-29-14] Info: Cliente conectado: 127.0.0.1:65425 
+[08-07-02023 10-29-14] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-32-16] Info: Cliente conectado: 127.0.0.1:65473 
+[08-07-02023 10-32-16] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-32-16] Info: Cliente conectado: 127.0.0.1:65474 
+[08-07-02023 10-32-16] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-32-28] Info: Cliente conectado: 127.0.0.1:65477 
+[08-07-02023 10-32-28] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-32-28] Info: Cliente conectado: 127.0.0.1:65478 
+[08-07-02023 10-32-28] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-32-53] Info: Cliente conectado: 127.0.0.1:65485 
+[08-07-02023 10-32-53] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-32-53] Info: Cliente conectado: 127.0.0.1:65486 
+[08-07-02023 10-32-53] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-43-35] Info: Cliente conectado: 127.0.0.1:49293 
+[08-07-02023 10-43-35] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-43-44] Info: Cliente conectado: 127.0.0.1:49296 
+[08-07-02023 10-43-45] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-44-49] Info: Cliente conectado: 127.0.0.1:49311 
+[08-07-02023 10-44-49] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-44-49] Info: Cliente conectado: 127.0.0.1:49312 
+[08-07-02023 10-44-49] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-45-19] Info: Cliente conectado: 127.0.0.1:49319 
+[08-07-02023 10-45-19] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-45-19] Info: Cliente conectado: 127.0.0.1:49320 
+[08-07-02023 10-45-19] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-55-58] Info: Cliente conectado: 127.0.0.1:49473 
+[08-07-02023 10-55-58] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-55-58] Info: Cliente conectado: 127.0.0.1:49474 
+[08-07-02023 10-55-58] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-56-50] Info: Cliente conectado: 127.0.0.1:49495 
+[08-07-02023 10-56-50] Info: Escuchando en el puerto: 58887 
+[08-07-02023 10-56-51] Info: Cliente conectado: 127.0.0.1:49496 
+[08-07-02023 10-56-51] Info: Escuchando en el puerto: 58887 

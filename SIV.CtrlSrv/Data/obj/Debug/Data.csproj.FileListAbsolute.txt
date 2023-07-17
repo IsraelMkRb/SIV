@@ -5,3 +5,14 @@ D:\Repositorio\SIV\SIV.CtrlSrv\Data\obj\Debug\Data.csproj.CoreCompileInputs.cach
 D:\Repositorio\SIV\SIV.CtrlSrv\Data\obj\Debug\Data.dll
 D:\Repositorio\SIV\SIV.CtrlSrv\Data\obj\Debug\Data.pdb
 D:\Repositorio\SIV\SIV.CtrlSrv\Data\bin\Debug\Data.dll.config
+D:\Repositorio\SIV\SIV.CtrlSrv\Data\bin\Debug\SIV.Encripting.dll
+D:\Repositorio\SIV\SIV.CtrlSrv\Data\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Repositorio\SIV\SIV.CtrlSrv\Data\bin\Debug\System.Security.AccessControl.dll
+D:\Repositorio\SIV\SIV.CtrlSrv\Data\bin\Debug\System.Security.Permissions.dll
+D:\Repositorio\SIV\SIV.CtrlSrv\Data\bin\Debug\System.Security.Principal.Windows.dll
+D:\Repositorio\SIV\SIV.CtrlSrv\Data\bin\Debug\SIV.Encripting.pdb
+D:\Repositorio\SIV\SIV.CtrlSrv\Data\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Repositorio\SIV\SIV.CtrlSrv\Data\bin\Debug\System.Security.AccessControl.xml
+D:\Repositorio\SIV\SIV.CtrlSrv\Data\bin\Debug\System.Security.Permissions.xml
+D:\Repositorio\SIV\SIV.CtrlSrv\Data\bin\Debug\System.Security.Principal.Windows.xml
+D:\Repositorio\SIV\SIV.CtrlSrv\Data\obj\Debug\Data.csproj.CopyComplete

@@ -1,5 +1,6 @@
 ﻿using DevExpress.XtraEditors;
 using System;
+using Newtonsoft.Json;
 using System.Configuration;
 using SIV.Entities;
 using System.Drawing;
@@ -9,10 +10,11 @@ namespace SIV.Views
 {
     public partial class LoginView : XtraForm
     {
-        public LoginView()
+        private Context Context;
+        public LoginView(Context context)
         {
             InitializeComponent();
-
+            Context = context;
         }
 
         public Employee employee;
@@ -87,18 +89,76 @@ namespace SIV.Views
                 {
                     Method = "Login_FromTerminal",
                     Parameters = new SIVParameters { EmployeeParameters = new Employee { Password = txtEmpNumber.Text } },
-                    TerminalSource = Convert.ToInt32(ConfigurationManager.AppSettings["Terminal"])
                 });
 
-                if (response.Code == CodeResponse.Error) 
+                if (response.Code == CodeResponse.Error)
+                {
+                    txtEmpNumber.Text = "";
                     throw new Exception((string)response.Data);
+                }
 
-                employee = (Employee)response.Data;
-                this.DialogResult = DialogResult.OK;
+                employee = JsonConvert.DeserializeObject<Employee>(response.Data.ToString());
+
+                response = Utils.ClientHelper.Send(new SIVRequest
+                {
+                    Method = "SetUserBlockedByTerminal",
+                    Parameters = new SIVParameters { EmployeeParameters = employee },
+                    TerminalSource = Convert.ToInt32(Properties.Settings.Default.Terminal)
+                });
+
+                if (response.Code == CodeResponse.Error) { throw new Exception((string)response.Data); }
+
+                Context.CheckView.Show();
+                this.Hide();
+
+                txtEmpNumber.Text = "";
             }
-            catch (Exception Ex)
+            catch (Exception Ex) { MessageBox.Show(Ex.Message); }
+        }
+
+        private void LoginView_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            switch (e.KeyChar)
             {
-                MessageBox.Show(Ex.Message);
+                case '1':
+                    txtEmpNumber.Text += "1";
+                    break;
+                case '2':
+                    txtEmpNumber.Text += "2";
+                    break;
+                case '3':
+                    txtEmpNumber.Text += "3";
+                    break;
+                case '4':
+                    txtEmpNumber.Text += "4";
+                    break;
+                case '5':
+                    txtEmpNumber.Text += "5";
+                    break;
+                case '6':
+                    txtEmpNumber.Text += "6";
+                    break;
+                case '7':
+                    txtEmpNumber.Text += "7";
+                    break;
+                case '8':
+                    txtEmpNumber.Text += "8";
+                    break;
+                case '9':
+                    txtEmpNumber.Text += "9";
+                    break;
+                case '0':
+                    txtEmpNumber.Text += "0";
+                    break;
+                case '\u007F':
+                    txtEmpNumber.Text = "";
+                    break;
+                case '\r':
+                    Login_Click(new object(), new EventArgs());
+                    break;
+                default:
+                    e.Handled = true;
+                    break;
             }
 
 

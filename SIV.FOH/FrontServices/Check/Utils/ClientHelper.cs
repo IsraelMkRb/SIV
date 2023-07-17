@@ -18,24 +18,24 @@ namespace SIV.Utils
             try
             {
              
-                Socket clientSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
-
-                clientSocket.Connect(host: ConfigurationManager.AppSettings["CtrlServer"],
-                                     port: Convert.ToInt32(ConfigurationManager.AppSettings["SrvPort"]));
-
-                byte[] RequestInBufferForm = Encoding.ASCII.GetBytes(JsonConvert.SerializeObject(Request));
-                clientSocket.Send(RequestInBufferForm);
+                Socket socketClient = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+                socketClient.SetSocketOption(SocketOptionLevel.Socket, SocketOptionName.ReuseAddress, optionValue: true);
+                socketClient.Connect(host: Properties.Settings.Default.CtrlServer,
+                                     port: Properties.Settings.Default.SrvPort);
+                
+                byte[] Request_InBufferForm = Encoding.ASCII.GetBytes(JsonConvert.SerializeObject(Request));
+                socketClient.Send(Request_InBufferForm);
 
                 byte[] buffer = new byte[1024];
-                int responseServer = clientSocket.Receive(buffer);
-                byte[] responseInBufferForm = new byte[responseServer];
-                Array.Copy(buffer, responseInBufferForm, responseServer);
+                int response_FromServer = socketClient.Receive(buffer);
+                byte[] responseInBufferForm = new byte[response_FromServer];
+                Array.Copy(sourceArray: buffer, destinationArray: responseInBufferForm, length: response_FromServer);
                 string responseInString = Encoding.ASCII.GetString(responseInBufferForm);
                 SIVResponse response = JsonConvert.DeserializeObject<SIVResponse>(responseInString);
 
-                clientSocket.Shutdown(SocketShutdown.Both);
-                clientSocket.Close();
-
+                socketClient.Shutdown(SocketShutdown.Both);
+                socketClient.Close();
+                socketClient.Dispose();
                 return response;
             }
             catch (Exception ex)

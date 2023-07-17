@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Check.Properties" GeneratedClassName="Settings">
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SIV.Properties" GeneratedClassName="Settings">
   <Profiles />
   <Settings>
     <Setting Name="Terminal" Type="System.Int32" Scope="User">
@@ -9,7 +9,7 @@
       <Value Profile="(Default)">127.0.0.1</Value>
     </Setting>
     <Setting Name="SrvPort" Type="System.Int32" Scope="User">
-      <Value Profile="(Default)">10002</Value>
+      <Value Profile="(Default)">58887</Value>
     </Setting>
   </Settings>
 </SettingsFile>

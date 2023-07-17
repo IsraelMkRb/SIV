@@ -69,6 +69,7 @@ namespace SIV.Views
             // 
             // simpleButton12
             // 
+            this.simpleButton12.AllowFocus = false;
             this.simpleButton12.Appearance.BackColor = DevExpress.LookAndFeel.DXSkinColors.FillColors.Success;
             this.simpleButton12.Appearance.Options.UseBackColor = true;
             this.simpleButton12.Location = new System.Drawing.Point(354, 355);
@@ -80,6 +81,7 @@ namespace SIV.Views
             // 
             // simpleButton4
             // 
+            this.simpleButton4.AllowFocus = false;
             this.simpleButton4.Location = new System.Drawing.Point(74, 185);
             this.simpleButton4.Name = "simpleButton4";
             this.simpleButton4.Size = new System.Drawing.Size(134, 79);
@@ -89,6 +91,7 @@ namespace SIV.Views
             // 
             // simpleButton11
             // 
+            this.simpleButton11.AllowFocus = false;
             this.simpleButton11.Location = new System.Drawing.Point(214, 355);
             this.simpleButton11.Name = "simpleButton11";
             this.simpleButton11.Size = new System.Drawing.Size(134, 79);
@@ -98,6 +101,7 @@ namespace SIV.Views
             // 
             // simpleButton10
             // 
+            this.simpleButton10.AllowFocus = false;
             this.simpleButton10.Appearance.BackColor = DevExpress.LookAndFeel.DXSkinColors.FillColors.Danger;
             this.simpleButton10.Appearance.Options.UseBackColor = true;
             this.simpleButton10.Location = new System.Drawing.Point(74, 355);
@@ -109,6 +113,7 @@ namespace SIV.Views
             // 
             // simpleButton9
             // 
+            this.simpleButton9.AllowFocus = false;
             this.simpleButton9.Location = new System.Drawing.Point(354, 270);
             this.simpleButton9.Name = "simpleButton9";
             this.simpleButton9.Size = new System.Drawing.Size(130, 79);
@@ -118,6 +123,7 @@ namespace SIV.Views
             // 
             // simpleButton8
             // 
+            this.simpleButton8.AllowFocus = false;
             this.simpleButton8.Location = new System.Drawing.Point(214, 270);
             this.simpleButton8.Name = "simpleButton8";
             this.simpleButton8.Size = new System.Drawing.Size(134, 79);
@@ -127,6 +133,7 @@ namespace SIV.Views
             // 
             // simpleButton7
             // 
+            this.simpleButton7.AllowFocus = false;
             this.simpleButton7.Location = new System.Drawing.Point(74, 270);
             this.simpleButton7.Name = "simpleButton7";
             this.simpleButton7.Size = new System.Drawing.Size(134, 79);
@@ -136,6 +143,7 @@ namespace SIV.Views
             // 
             // simpleButton6
             // 
+            this.simpleButton6.AllowFocus = false;
             this.simpleButton6.Location = new System.Drawing.Point(354, 185);
             this.simpleButton6.Name = "simpleButton6";
             this.simpleButton6.Size = new System.Drawing.Size(130, 79);
@@ -145,6 +153,7 @@ namespace SIV.Views
             // 
             // simpleButton5
             // 
+            this.simpleButton5.AllowFocus = false;
             this.simpleButton5.Location = new System.Drawing.Point(214, 185);
             this.simpleButton5.Name = "simpleButton5";
             this.simpleButton5.Size = new System.Drawing.Size(134, 79);
@@ -154,6 +163,7 @@ namespace SIV.Views
             // 
             // simpleButton3
             // 
+            this.simpleButton3.AllowFocus = false;
             this.simpleButton3.Location = new System.Drawing.Point(354, 100);
             this.simpleButton3.Name = "simpleButton3";
             this.simpleButton3.Size = new System.Drawing.Size(130, 79);
@@ -163,6 +173,7 @@ namespace SIV.Views
             // 
             // simpleButton2
             // 
+            this.simpleButton2.AllowFocus = false;
             this.simpleButton2.Location = new System.Drawing.Point(214, 102);
             this.simpleButton2.Name = "simpleButton2";
             this.simpleButton2.Size = new System.Drawing.Size(134, 77);
@@ -172,6 +183,7 @@ namespace SIV.Views
             // 
             // simpleButton1
             // 
+            this.simpleButton1.AllowFocus = false;
             this.simpleButton1.Location = new System.Drawing.Point(74, 102);
             this.simpleButton1.Name = "simpleButton1";
             this.simpleButton1.Size = new System.Drawing.Size(134, 77);
@@ -201,8 +213,12 @@ namespace SIV.Views
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1370, 672);
             this.Controls.Add(this.Container_Buttons);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.KeyPreview = true;
             this.Name = "LoginView";
             this.Text = " ";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.LoginView_KeyPress);
             this.Resize += new System.EventHandler(this.LoginView_Resize);
             this.Container_Buttons.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.txtEmpNumber.Properties)).EndInit();

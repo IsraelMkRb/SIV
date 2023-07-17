@@ -14,11 +14,12 @@ namespace CtrlServices
 {
     class Actions
     {
-        
-        internal static readonly Dictionary<string, Func<SIVParameters, SIVResponse>> keyValuePairs = new Dictionary<string, Func<SIVParameters, SIVResponse>>
+
+        public static readonly Dictionary<string, Func<SIVParameters, SIVResponse>> keyValuePairs = new Dictionary<string, Func<SIVParameters, SIVResponse>>
         {
             { "Login", EmployeesMethods.Login},
-            { "Login_FromTerminal", EmployeesMethods.Login_FromTerminal }
+            { "Login_FromTerminal", EmployeesMethods.Login_FromTerminal },
+            { "SetUserBlockedByTerminal", EmployeesMethods.SetUserBlockedByTerminal }
         };
     }
 
@@ -74,7 +75,7 @@ namespace CtrlServices
             SIVResponse response = new SIVResponse();
             IDataReader reader = Connection.ExecuteReader
                 (
-                    query: "SELECT ID FROM general.vw_employee WHERE Password = @EmpPassword",
+                    query: "SELECT ID FROM general.vw_Employees WHERE Password = @EmpPassword",
                     commandType: CommandType.Text,
                     parameters: (IDbDataParameter[])(new[]
                     {
@@ -86,7 +87,7 @@ namespace CtrlServices
             {
                 response.Code = CodeResponse.OK;
                 response.Data = ConvertHelper.ConvertDataReaderToObject<Employee>(reader);
-            }                
+            }
             else
             {
                 response.Code = CodeResponse.Error;
@@ -95,6 +96,21 @@ namespace CtrlServices
 
             reader.Close();
             return response;
+        }
+        public static SIVResponse SetUserBlockedByTerminal(SIVParameters parameters)
+        {
+            Connection.ExecuteNonQuery
+                (
+                    query: "UPDATE general.Employees set Emp_LoggedInTerminal = @TerminalSource where Emp_Id = @EmpId",
+                    commandType: CommandType.Text,
+                    parameters: new[]
+                    {
+                        Connection.CreateParameter("@EmpId",parameters.EmployeeParameters.ID),
+                        Connection.CreateParameter("@TerminalSource",parameters.TerminalSource)
+                    }
+                );
+
+            return new SIVResponse { Code = CodeResponse.OK, Data = "OK" };
         }
     }
 }

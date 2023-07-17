@@ -25,8 +25,8 @@ namespace Data.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=SISTEMAS-ISRAEL\\SQLEXPRESS;Initial Catalog=SIVDATA;Integrated Securit" +
-            "y=True;")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=SISTEMAS-ISRAEL\\SQLEXPRESS;Initial Catalog=SIVDATA;User=sa;Password=s" +
+            "a01;")]
         public string DataSource {
             get {
                 return ((string)(this["DataSource"]));

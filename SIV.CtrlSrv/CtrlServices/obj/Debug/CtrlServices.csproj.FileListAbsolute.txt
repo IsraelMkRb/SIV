@@ -1,2 +1,17 @@
 D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\obj\Debug\CtrlServices.csproj.AssemblyReference.cache
 D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\obj\Debug\CtrlServices.csproj.CoreCompileInputs.cache
+D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\bin\Debug\CtrlServices.exe.config
+D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\bin\Debug\CtrlServices.exe
+D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\bin\Debug\CtrlServices.pdb
+D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\bin\Debug\Data.dll
+D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\bin\Debug\Newtonsoft.Json.dll
+D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\bin\Debug\SIV.Encripting.dll
+D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\bin\Debug\SIV.General.dll
+D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\bin\Debug\Data.pdb
+D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\bin\Debug\Data.dll.config
+D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\bin\Debug\Newtonsoft.Json.xml
+D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\bin\Debug\SIV.Encripting.pdb
+D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\bin\Debug\SIV.General.pdb
+D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\obj\Debug\CtrlServices.csproj.CopyComplete
+D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\obj\Debug\CtrlServices.exe
+D:\Repositorio\SIV\SIV.CtrlSrv\CtrlServices\obj\Debug\CtrlServices.pdb
