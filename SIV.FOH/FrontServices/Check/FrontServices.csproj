@@ -91,6 +91,7 @@
     </Compile>
     <Compile Include="Settings.cs" />
     <Compile Include="Utils\ClientHelper.cs" />
+    <Compile Include="Utils\ListItemDisplayHelper.cs" />
     <Compile Include="Utils\PrinterHelper.cs" />
     <Compile Include="Views\CheckServiceView.cs">
       <SubType>Form</SubType>

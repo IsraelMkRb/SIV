@@ -31,6 +31,7 @@ namespace SIV.Views
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(PaymentsView));
             this.dataLayoutControl1 = new DevExpress.XtraDataLayout.DataLayoutControl();
+            this.simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
             this.btnBackCheckView = new DevExpress.XtraEditors.SimpleButton();
             this.btnClose = new DevExpress.XtraEditors.SimpleButton();
             this.panel2 = new System.Windows.Forms.Panel();
@@ -40,7 +41,6 @@ namespace SIV.Views
             this.layoutControlItem2 = new DevExpress.XtraLayout.LayoutControlItem();
             this.layoutControlItem3 = new DevExpress.XtraLayout.LayoutControlItem();
             this.layoutControlItem4 = new DevExpress.XtraLayout.LayoutControlItem();
-            this.simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
             this.layoutControlItem5 = new DevExpress.XtraLayout.LayoutControlItem();
             ((System.ComponentModel.ISupportInitialize)(this.dataLayoutControl1)).BeginInit();
             this.dataLayoutControl1.SuspendLayout();
@@ -67,6 +67,20 @@ namespace SIV.Views
             this.dataLayoutControl1.TabIndex = 1;
             this.dataLayoutControl1.Text = "dataLayoutControl1";
             // 
+            // simpleButton1
+            // 
+            this.simpleButton1.AllowFocus = false;
+            this.simpleButton1.Appearance.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.simpleButton1.Appearance.Options.UseFont = true;
+            this.simpleButton1.ImageOptions.ImageToTextAlignment = DevExpress.XtraEditors.ImageAlignToText.LeftCenter;
+            this.simpleButton1.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("simpleButton1.ImageOptions.SvgImage")));
+            this.simpleButton1.Location = new System.Drawing.Point(192, 586);
+            this.simpleButton1.Name = "simpleButton1";
+            this.simpleButton1.Size = new System.Drawing.Size(174, 44);
+            this.simpleButton1.StyleController = this.dataLayoutControl1;
+            this.simpleButton1.TabIndex = 7;
+            this.simpleButton1.Text = "Cerrar";
+            // 
             // btnBackCheckView
             // 
             this.btnBackCheckView.AllowFocus = false;
@@ -79,7 +93,7 @@ namespace SIV.Views
             this.btnBackCheckView.Size = new System.Drawing.Size(176, 44);
             this.btnBackCheckView.StyleController = this.dataLayoutControl1;
             this.btnBackCheckView.TabIndex = 6;
-            this.btnBackCheckView.Text = "Back to Check";
+            this.btnBackCheckView.Text = "Regresar";
             this.btnBackCheckView.Click += new System.EventHandler(this.btnBackCheckView_Click);
             // 
             // btnClose
@@ -165,20 +179,6 @@ namespace SIV.Views
             this.layoutControlItem4.Size = new System.Drawing.Size(180, 48);
             this.layoutControlItem4.TextSize = new System.Drawing.Size(0, 0);
             this.layoutControlItem4.TextVisible = false;
-            // 
-            // simpleButton1
-            // 
-            this.simpleButton1.AllowFocus = false;
-            this.simpleButton1.Appearance.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.simpleButton1.Appearance.Options.UseFont = true;
-            this.simpleButton1.ImageOptions.ImageToTextAlignment = DevExpress.XtraEditors.ImageAlignToText.LeftCenter;
-            this.simpleButton1.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("simpleButton1.ImageOptions.SvgImage")));
-            this.simpleButton1.Location = new System.Drawing.Point(192, 586);
-            this.simpleButton1.Name = "simpleButton1";
-            this.simpleButton1.Size = new System.Drawing.Size(174, 44);
-            this.simpleButton1.StyleController = this.dataLayoutControl1;
-            this.simpleButton1.TabIndex = 7;
-            this.simpleButton1.Text = "Close Check";
             // 
             // layoutControlItem5
             // 

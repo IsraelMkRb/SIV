@@ -156,6 +156,9 @@ namespace SIV.Views
                 case '\r':
                     Login_Click(new object(), new EventArgs());
                     break;
+                case '\b':
+                    txtEmpNumber.Text = "";
+                    break;
                 default:
                     e.Handled = true;
                     break;

@@ -33,6 +33,10 @@ namespace SIV.Views
                 new Entities.Menu(){ DisplayText = "Pizzas" },
                 new Entities.Menu(){ DisplayText = "Bebidas" }
             };
+
+            ListItemDisplayHelper.AddItem(panel: pnlCheckListItems, new Item { DisplayName = "Pechuga Empanizada" });
+            ListItemDisplayHelper.AddItem(panel: pnlCheckListItems, new Item { DisplayName = "Pechuga Empanizada" });
+            ListItemDisplayHelper.AddItem(panel: pnlCheckListItems, new Item { DisplayName = "Pechuga Empanizada" });
         }
 
         private void btnClose_Click(object sender, EventArgs e)
